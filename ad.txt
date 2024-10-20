@@ -1,0 +1,247 @@
+Курсы Server 2016 (70-740):
+•  Урок 1 (Сертификация);
+ (https://www.youtube.com/watch?v=x_sCqG8y1fY&list=PL0MV6px_XdxDM0q_uEUQVJLNmSc26h7GX&index=1&t=66s)•  Урок 2 (Планирование);
+ (https://www.youtube.com/watch?v=ZxhuBqvUPl4&list=PL0MV6px_XdxDM0q_uEUQVJLNmSc26h7GX&index=2)•  Урок 3 (Подготовка к установке системы);
+ (https://www.youtube.com/watch?v=p_84uxGH4m0&list=PL0MV6px_XdxDM0q_uEUQVJLNmSc26h7GX&index=3)•  Урок 4 (Установка сервера 2016);
+ (https://www.youtube.com/watch?v=3g5RX1F_0gY&list=PL0MV6px_XdxDM0q_uEUQVJLNmSc26h7GX&index=4)•  Урок 5 (Установка Server Core);
+ (https://www.youtube.com/watch?v=BX2T4ph8kNo&list=PL0MV6px_XdxDM0q_uEUQVJLNmSc26h7GX&index=5)•  Урок 6 (Конфигурация Server Core);
+ (https://www.youtube.com/watch?v=Lo7TiKr2bKo&list=PL0MV6px_XdxDM0q_uEUQVJLNmSc26h7GX&index=6)•  Урок 7 (Ввод серверов в домен);
+ (https://www.youtube.com/watch?v=bWjv35ifiLY&list=PL0MV6px_XdxDM0q_uEUQVJLNmSc26h7GX&index=7)•  Урок 8 (ISE - Integrated Scripting Environment);
+ (https://www.youtube.com/watch?v=mibxXMOdDWI&list=PL0MV6px_XdxDM0q_uEUQVJLNmSc26h7GX&index=8)•  Урок 9 (DSC - Desired State Configuration);
+ (https://www.youtube.com/watch?v=fYr4BkXAuWw&list=PL0MV6px_XdxDM0q_uEUQVJLNmSc26h7GX&index=9)•  Урок 10 (Лицензии);
+ (https://www.youtube.com/watch?v=A7Djyl-wHMM&list=PL0MV6px_XdxDM0q_uEUQVJLNmSc26h7GX&index=10)•  Урок 11 (Upgrade & migration);
+ (https://www.youtube.com/watch?v=T6hByGpEnlY&list=PL0MV6px_XdxDM0q_uEUQVJLNmSc26h7GX&index=11)•  Урок 12 (Контроллер домена);
+ (https://www.youtube.com/watch?v=R-ECJQXJLnE&list=PL0MV6px_XdxDM0q_uEUQVJLNmSc26h7GX&index=12)•  Урок 13 (DHCP Server);
+ (https://www.youtube.com/watch?v=ERZ2ZwcBPAE&list=PL0MV6px_XdxDM0q_uEUQVJLNmSc26h7GX&index=13)•  Урок 14 (Миграция);
+ (https://www.youtube.com/watch?v=EFkx1ElQNcs&list=PL0MV6px_XdxDM0q_uEUQVJLNmSc26h7GX&index=14)•  Урок 15 (Диски).
+
+ (https://www.youtube.com/watch?v=2ptwEoxO3Yo&list=PL0MV6px_XdxDM0q_uEUQVJLNmSc26h7GX&index=15)Курсы Server 2016 (70-741):
+•  Урок 1 (Обзор DNS);
+ (https://www.youtube.com/watch?v=Knq8ggznH3E&list=PL0MV6px_XdxB_hKXJCBKg6b-SIvP_8lzM&index=2)•  Урок 2 (Роли DNS сервера);
+ (https://www.youtube.com/watch?v=QiP44dNM_WU&list=PL0MV6px_XdxB_hKXJCBKg6b-SIvP_8lzM&index=3)•  Урок 3 (DNS Conditional forwarder);
+ (https://www.youtube.com/watch?v=IW0mOTdI5YI&list=PL0MV6px_XdxB_hKXJCBKg6b-SIvP_8lzM&index=4)•  Урок 4 (DNS root hints);
+ (https://www.youtube.com/watch?v=CM3yGBrGiD0&list=PL0MV6px_XdxB_hKXJCBKg6b-SIvP_8lzM&index=5)•  Урок 5 (Обзор DNS записей);
+ (https://www.youtube.com/watch?v=srnp0XRXvGE&list=PL0MV6px_XdxB_hKXJCBKg6b-SIvP_8lzM&index=6)•  Урок 6 (Проверка DNS записей);
+ (https://www.youtube.com/watch?v=NAf-RkjYS1k&list=PL0MV6px_XdxB_hKXJCBKg6b-SIvP_8lzM&index=7)•  Урок 7 (Обзор зон DNS);
+ (https://www.youtube.com/watch?v=l1CtIye2ohU&list=PL0MV6px_XdxB_hKXJCBKg6b-SIvP_8lzM&index=8)•  Урок 8 (DNS PTR Records);
+ (https://www.youtube.com/watch?v=OWXybbK74Vw&list=PL0MV6px_XdxB_hKXJCBKg6b-SIvP_8lzM&index=9)•  Урок 9 (DNS Round Robin);
+ (https://www.youtube.com/watch?v=KD8FTvvfRq0&list=PL0MV6px_XdxB_hKXJCBKg6b-SIvP_8lzM&index=10)•  Урок 10 (DNS Delegation).
+
+ (https://www.youtube.com/watch?v=6F7jjVy74VE&list=PL0MV6px_XdxB_hKXJCBKg6b-SIvP_8lzM&index=11)Курсы Server 2016 (70-742):
+•  Урок 1 (Active Directory Overview and Install);
+ (https://www.youtube.com/watch?v=E4hIyw9Z8d8&list=PL0MV6px_XdxD-DrTg4n4X4pkTzIF_u2_5&index=2)•  Урок 2 (Read Only DC and Removing DCs);
+ (https://www.youtube.com/watch?v=3iBA4RFHd7Y&list=PL0MV6px_XdxD-DrTg4n4X4pkTzIF_u2_5&index=3)•  Урок 3 (Install from Media and DC Upgrades);
+ (https://www.youtube.com/watch?v=I2a517-28SM&list=PL0MV6px_XdxD-DrTg4n4X4pkTzIF_u2_5&index=4)•  Урок 4 (Flexible Single Master Operator Roles);
+ (https://www.youtube.com/watch?v=ia2LbT8HHHw&list=PL0MV6px_XdxD-DrTg4n4X4pkTzIF_u2_5&index=6)•  Урок 5 (Configure Domain Controller Cloning);
+ (https://www.youtube.com/watch?v=M9gO5pIOjIU&list=PL0MV6px_XdxD-DrTg4n4X4pkTzIF_u2_5&index=7)•  Урок 6 (Troubleshooting Active Directory);
+ (https://www.youtube.com/watch?v=VTbrJZO0qXU&list=PL0MV6px_XdxD-DrTg4n4X4pkTzIF_u2_5&index=8)•  Урок 7 (Create, Copy, Configure Users and Computers);
+ (https://www.youtube.com/watch?v=Bt95bViGUcU&list=PL0MV6px_XdxD-DrTg4n4X4pkTzIF_u2_5&index=9)•  Урок 8 (Joining computer to a domain);
+ (https://www.youtube.com/watch?v=P-KU_6t5TGc&list=PL0MV6px_XdxD-DrTg4n4X4pkTzIF_u2_5&index=11)•  Урок 9 (Automate the Creation of AD Account);
+ (https://www.youtube.com/watch?v=Fy7_I-PSCxE&list=PL0MV6px_XdxD-DrTg4n4X4pkTzIF_u2_5&index=12)•  Урок 10 (Account lockout policy).
+
+
+Mindmap. Pentesting active ‎directory.  https://orange-cyberdefense.github.io/ocd-mindmaps/img/pentest_ad_dark_2022_11.svg
+
+
+ Делюсь ссылками на полезный справочник для эксплуатации win #AD, который включает в себя следующую информацию:
+
+•  Обход PowerShell AMSI;
+ (https://casvancooten.com/posts/2020/11/windows-active-directory-exploitation-cheat-sheet-and-command-reference/#powershell-amsi-bypass)•  PowerShell one-liners;
+ (https://casvancooten.com/posts/2020/11/windows-active-directory-exploitation-cheat-sheet-and-command-reference/#powershell-one-liners)•  Перечисления (Enumeration);
+ (https://casvancooten.com/posts/2020/11/windows-active-directory-exploitation-cheat-sheet-and-command-reference/#enumeration)•  AD Enumeration с помощью PowerView;
+ (https://casvancooten.com/posts/2020/11/windows-active-directory-exploitation-cheat-sheet-and-command-reference/#ad-enumeration-with-powerview)•  AppLocker;
+ (https://casvancooten.com/posts/2020/11/windows-active-directory-exploitation-cheat-sheet-and-command-reference/#applocker)•  Ограниченный языковой режим PowerShell;
+ (https://casvancooten.com/posts/2020/11/windows-active-directory-exploitation-cheat-sheet-and-command-reference/#powershell-constrained-language-mode)•  LAPS;
+ (https://casvancooten.com/posts/2020/11/windows-active-directory-exploitation-cheat-sheet-and-command-reference/#laps)•  Боковое перемещение (Lateral Movement);
+ (https://casvancooten.com/posts/2020/11/windows-active-directory-exploitation-cheat-sheet-and-command-reference/#lateral-movement)•  Боковое перемещение с помощью PowerView;
+ (https://casvancooten.com/posts/2020/11/windows-active-directory-exploitation-cheat-sheet-and-command-reference/#lateral-movement-enumeration-with-powerview)•  BloodHound;
+ (https://casvancooten.com/posts/2020/11/windows-active-directory-exploitation-cheat-sheet-and-command-reference/#bloodhound)•  Kerberoasting;
+ (https://casvancooten.com/posts/2020/11/windows-active-directory-exploitation-cheat-sheet-and-command-reference/#kerberoasting)•  AS-REP roasting;
+ (https://casvancooten.com/posts/2020/11/windows-active-directory-exploitation-cheat-sheet-and-command-reference/#as-rep-roasting)•  Token Manipulation;
+ (https://casvancooten.com/posts/2020/11/windows-active-directory-exploitation-cheat-sheet-and-command-reference/#token-manipulation)•  Боковое перемещение с помощью Rubeus;
+ (https://casvancooten.com/posts/2020/11/windows-active-directory-exploitation-cheat-sheet-and-command-reference/#lateral-movement-with-rubeus)•  Боковое перемещение с помощью Mimikatz;
+ (https://casvancooten.com/posts/2020/11/windows-active-directory-exploitation-cheat-sheet-and-command-reference/#lateral-movement-with-mimikatz)•  Выполнение команды с запланированными задачами;
+ (https://casvancooten.com/posts/2020/11/windows-active-directory-exploitation-cheat-sheet-and-command-reference/#command-execution-with-scheduled-tasks)•  Выполнение команд с помощью WMI;
+ (https://casvancooten.com/posts/2020/11/windows-active-directory-exploitation-cheat-sheet-and-command-reference/#command-execution-with-wmi)•  Выполнение команд с помощью PowerShell Remoting;
+ (https://casvancooten.com/posts/2020/11/windows-active-directory-exploitation-cheat-sheet-and-command-reference/#command-execution-with-powershell-remoting)•  Неограниченное делегирование;
+ (https://casvancooten.com/posts/2020/11/windows-active-directory-exploitation-cheat-sheet-and-command-reference/#unconstrained-delegation)•  Ограниченное делегирование;
+ (https://casvancooten.com/posts/2020/11/windows-active-directory-exploitation-cheat-sheet-and-command-reference/#constrained-delegation)•  Ограниченное делегирование на основе ресурсов;
+ (https://casvancooten.com/posts/2020/11/windows-active-directory-exploitation-cheat-sheet-and-command-reference/#resource-based-constrained-delegation)•  Злоупотребление доверием к домену;
+ (https://casvancooten.com/posts/2020/11/windows-active-directory-exploitation-cheat-sheet-and-command-reference/#abusing-domain-trust)•  MSSQL и боковое перемещение;
+ (https://casvancooten.com/posts/2020/11/windows-active-directory-exploitation-cheat-sheet-and-command-reference/#abusing-mssql-databases-for-lateral-movement)•  Групповые политики и боковое перемещение;
+ (https://casvancooten.com/posts/2020/11/windows-active-directory-exploitation-cheat-sheet-and-command-reference/#abusing-group-policy-objects-for-lateral-movement)•  Privilege Escalation;
+ (https://casvancooten.com/posts/2020/11/windows-active-directory-exploitation-cheat-sheet-and-command-reference/#privilege-escalation)•  PowerUp;
+ (https://casvancooten.com/posts/2020/11/windows-active-directory-exploitation-cheat-sheet-and-command-reference/#powerup)•  UAC Bypass;
+ (https://casvancooten.com/posts/2020/11/windows-active-directory-exploitation-cheat-sheet-and-command-reference/#uac-bypass)•  Persistence;
+ (https://casvancooten.com/posts/2020/11/windows-active-directory-exploitation-cheat-sheet-and-command-reference/#persistence)•  Startup folder;
+ (https://casvancooten.com/posts/2020/11/windows-active-directory-exploitation-cheat-sheet-and-command-reference/#startup-folder)•  Domain Persistence;
+ (https://casvancooten.com/posts/2020/11/windows-active-directory-exploitation-cheat-sheet-and-command-reference/#domain-persistence)•  Mimikatz skeleton key attack;
+ (https://casvancooten.com/posts/2020/11/windows-active-directory-exploitation-cheat-sheet-and-command-reference/#mimikatz-skeleton-key-attack)•  Права DCSync с помощью PowerView;
+ (https://casvancooten.com/posts/2020/11/windows-active-directory-exploitation-cheat-sheet-and-command-reference/#grant-specific-user-dcsync-rights-with-powerview)•  Domain Controller DSRM admin;
+ (https://casvancooten.com/posts/2020/11/windows-active-directory-exploitation-cheat-sheet-and-command-reference/#domain-controller-dsrm-admin)•  Изменение дескрипторов безопасности для удаленного доступа к WMI;
+ (https://casvancooten.com/posts/2020/11/windows-active-directory-exploitation-cheat-sheet-and-command-reference/#modifying-security-descriptors-for-remote-wmi-access)•  Изменение дескрипторов безопасности для удаленного доступа PowerShell;
+ (https://casvancooten.com/posts/2020/11/windows-active-directory-exploitation-cheat-sheet-and-command-reference/#modifying-security-descriptors-for-powershell-remoting-access)•  Изменение дескрипторов безопасности реестра DC для удаленного извлечения хэша с помощью DAMP;
+ (https://casvancooten.com/posts/2020/11/windows-active-directory-exploitation-cheat-sheet-and-command-reference/#modifying-dc-registry-security-descriptors-for-remote-hash-retrieval-using-damp)•  DCShadow;
+ (https://casvancooten.com/posts/2020/11/windows-active-directory-exploitation-cheat-sheet-and-command-reference/#dcshadow)•  Постэксплуатация;
+ (https://casvancooten.com/posts/2020/11/windows-active-directory-exploitation-cheat-sheet-and-command-reference/#post-exploitation)•  LSASS protection;
+ (https://casvancooten.com/posts/2020/11/windows-active-directory-exploitation-cheat-sheet-and-command-reference/#lsass-protection)•  Дамп учетных данных с помощью Mimikatz;
+ (https://casvancooten.com/posts/2020/11/windows-active-directory-exploitation-cheat-sheet-and-command-reference/#dumping-os-credentials-with-mimikatz)•  Злоупотребление DPAPI с помощью Mimikatz;
+ (https://casvancooten.com/posts/2020/11/windows-active-directory-exploitation-cheat-sheet-and-command-reference/#abusing-the-data-protection-api-dpapi-with-mimikatz)•  Dumping secrets without Mimikatz;
+ (https://casvancooten.com/posts/2020/11/windows-active-directory-exploitation-cheat-sheet-and-command-reference/#dumping-secrets-without-mimikatz)•  Windows Defender evasion;
+ (https://casvancooten.com/posts/2020/11/windows-active-directory-exploitation-cheat-sheet-and-command-reference/#windows-defender-evasion)•  Chisel proxying;
+ (https://casvancooten.com/posts/2020/11/windows-active-directory-exploitation-cheat-sheet-and-command-reference/#chisel-proxying)•  Juicy files;
+
+
+Цель статьи — рассмотреть Active Directory с точки зрения злоумышленника. Чтобы понять, как атаковать Active Directory (и любую другую технологию), я думаю, важно знать не только инструменты, но и то, как они работают, какие протоколы/механизмы они используют и почему эти механизмы/протоколы существуют.   https://defcon.ru/penetration-testing/18872/ (https://zer1t0.gitlab.io/posts/attacking_ad/)
+
+
+ Active Directory Attacks Series.
+
+•  Держите полезный плейлист, в котором представлен разбор базовых атак на Active Directory:
+
+•  Pass-the-Hash Attack Using Mimikatz; (https://www.youtube.com/watch?v=bTYR_xYSDIk&list=PLPDUz8KkxR5z2z84CJ1JyLXC9JgxkjPBk&index=1&pp=iAQB)
+•  Plaintext Password Extraction through Group Policy Preferences; (https://www.youtube.com/watch?v=CVasZiVPscQ&list=PLPDUz8KkxR5z2z84CJ1JyLXC9JgxkjPBk&index=2&pp=iAQB)
+•  AdminSDHolder Modification; (https://www.youtube.com/watch?v=O81cxbUFfuo&list=PLPDUz8KkxR5z2z84CJ1JyLXC9JgxkjPBk&index=3&pp=iAQB)
+•  Ntds.dit Password Extraction; (https://www.youtube.com/watch?v=QfQVtTX-mDM&list=PLPDUz8KkxR5z2z84CJ1JyLXC9JgxkjPBk&index=4&pp=iAQB)
+•  Performing Reconnaissance Using LDAP; (https://www.youtube.com/watch?v=njjwUoeOwhY&list=PLPDUz8KkxR5z2z84CJ1JyLXC9JgxkjPBk&index=5&pp=iAQB)
+•  DCSync Attack Using Mimikatz Detection; (https://www.youtube.com/watch?v=aSAZzIqGeiY&list=PLPDUz8KkxR5z2z84CJ1JyLXC9JgxkjPBk&index=6&pp=iAQB)
+•  DCShadow Attack Using Mimikatz; (https://www.youtube.com/watch?v=t0pCiPXB5XA&list=PLPDUz8KkxR5z2z84CJ1JyLXC9JgxkjPBk&index=7&pp=iAQB)
+•  Password Spraying; (https://www.youtube.com/watch?v=TSzlNQjPAOQ&list=PLPDUz8KkxR5z2z84CJ1JyLXC9JgxkjPBk&index=8&pp=iAQB)
+•  Kerberos Silver Ticket; (https://www.youtube.com/watch?v=GTJyd-AMfuM&list=PLPDUz8KkxR5z2z84CJ1JyLXC9JgxkjPBk&index=9&pp=iAQB)
+•  Kerberoasting; (https://www.youtube.com/watch?v=beRDcvBwTBw&list=PLPDUz8KkxR5z2z84CJ1JyLXC9JgxkjPBk&index=10&pp=iAQB)
+•  Golden Ticket; (https://www.youtube.com/watch?v=f6SleGakcE0&list=PLPDUz8KkxR5z2z84CJ1JyLXC9JgxkjPBk&index=11&pp=iAQB)
+•  Pass-the-Cookie; (https://www.youtube.com/watch?v=uMRqGPUb5zc&list=PLPDUz8KkxR5z2z84CJ1JyLXC9JgxkjPBk&index=12&pp=iAQB)
+•  AD Attribute Takeover; (https://www.youtube.com/watch?v=Dl-dtdzivXE&list=PLPDUz8KkxR5z2z84CJ1JyLXC9JgxkjPBk&index=13&pp=iAQB)
+•  Lateral Movement. (https://www.youtube.com/watch?v=h8ZdylihP9w&list=PLPDUz8KkxR5z2z84CJ1JyLXC9JgxkjPBk&index=14&pp=iAQB)
+
+Подробное руководство по созданию домашней виртуальной лабы для этичного хакинга.  https://www.stationx.net/how-to-create-a-virtual-hacking-lab/
+
+
+Токены. От появления до продвижения в Active Directory. https://habr.com/ru/articles/776298/
+
+
+Pwning the Domain: With Credentials.
+
+•  Domain Account; (https://hadess.io/pwning-the-domain-with-credentials/#elementor-toc__heading-anchor-0)
+•  Enumeration; (https://hadess.io/pwning-the-domain-with-credentials/#elementor-toc__heading-anchor-1)
+•  BloodHound; (https://hadess.io/pwning-the-domain-with-credentials/#elementor-toc__heading-anchor-2)
+•  PowerView; (https://hadess.io/pwning-the-domain-with-credentials/#elementor-toc__heading-anchor-3)
+•  Kerberoasting; (https://hadess.io/pwning-the-domain-with-credentials/#elementor-toc__heading-anchor-4)
+•  PrinterBug(MS-PRPN); (https://hadess.io/pwning-the-domain-with-credentials/#elementor-toc__heading-anchor-5)
+•  ShadowCoerce(MS-FSRVP); (https://hadess.io/pwning-the-domain-with-credentials/#elementor-toc__heading-anchor-6)
+•  DFSCoerce(MS-DFSNM); (https://hadess.io/pwning-the-domain-with-credentials/#elementor-toc__heading-anchor-7)
+•  SMB share; (https://hadess.io/pwning-the-domain-with-credentials/#elementor-toc__heading-anchor-8)
+•  Vulnerabilities; (https://hadess.io/pwning-the-domain-with-credentials/#elementor-toc__heading-anchor-9)
+•  PrivExchange Vulnerability; (https://hadess.io/pwning-the-domain-with-credentials/#elementor-toc__heading-anchor-10)
+•  SamAccountName/NoPac; (https://hadess.io/pwning-the-domain-with-credentials/#elementor-toc__heading-anchor-11)
+ -  SamAccountName/NoPac Attack; (https://hadess.io/pwning-the-domain-with-credentials/#elementor-toc__heading-anchor-12)
+•  PrintNightmare; (https://hadess.io/pwning-the-domain-with-credentials/#elementor-toc__heading-anchor-13)
+•  Certifried; (https://hadess.io/pwning-the-domain-with-credentials/#elementor-toc__heading-anchor-14)
+ -  Certifried Exploitation; (https://hadess.io/pwning-the-domain-with-credentials/#elementor-toc__heading-anchor-15)
+•  Domain Admin; (https://hadess.io/pwning-the-domain-with-credentials/#elementor-toc__heading-anchor-16)
+•  Dump NTDS; (https://hadess.io/pwning-the-domain-with-credentials/#elementor-toc__heading-anchor-17)
+•  DCSync; (https://hadess.io/pwning-the-domain-with-credentials/#elementor-toc__heading-anchor-18)
+•  Extract Credentials; (https://hadess.io/pwning-the-domain-with-credentials/#elementor-toc__heading-anchor-19)
+•  LSASS DUMP; (https://hadess.io/pwning-the-domain-with-credentials/#elementor-toc__heading-anchor-20)
+•  SAM/LSA DUMP; (https://hadess.io/pwning-the-domain-with-credentials/#elementor-toc__heading-anchor-21)
+•  DPAPI Dump/Decryption; (https://hadess.io/pwning-the-domain-with-credentials/#elementor-toc__heading-anchor-22)
+•  Token Manipulation; (https://hadess.io/pwning-the-domain-with-credentials/#elementor-toc__heading-anchor-23)
+•  Adjust token privileges; (https://hadess.io/pwning-the-domain-with-credentials/#elementor-toc__heading-anchor-24)
+•  Token Impersonation; (https://hadess.io/pwning-the-domain-with-credentials/#elementor-toc__heading-anchor-25)
+•  Security Researchers. (https://hadess.io/pwning-the-domain-with-credentials/#elementor-toc__heading-anchor-26)
+
+
+«Злоупотребление ограниченным делегированием Kerberos на основе ресурсов» — как много в этом звуке! Точнее уже не просто звуке и даже не словосочетании, а целом классе наступательных техник в доменной среде Active Directory. В этой статье описаны актуальные сценарии атак при помощи делегирования Kerberos, для последующего повышения привилегий в системе.
+
+•  What is Kerberos delegation? (https://hadess.io/pwning-the-domain-kerberos-delegation/#elementor-toc__heading-anchor-0)
+•  Unconstrained; (https://hadess.io/pwning-the-domain-kerberos-delegation/#elementor-toc__heading-anchor-1)
+•  Constrained; (https://hadess.io/pwning-the-domain-kerberos-delegation/#elementor-toc__heading-anchor-2)
+•  Scenario for Protocol Transition works; (https://hadess.io/pwning-the-domain-kerberos-delegation/#elementor-toc__heading-anchor-3)
+•  Steps to Perform RBCD Attack; (https://hadess.io/pwning-the-domain-kerberos-delegation/#elementor-toc__heading-anchor-4)
+•  Resources; (https://hadess.io/pwning-the-domain-kerberos-delegation/#elementor-toc__heading-anchor-5)
+•  Security Researchers. (https://hadess.io/pwning-the-domain-kerberos-delegation/#elementor-toc__heading-anchor-6)
+
+
+Внутренняя разведка Active Directory через Cobalt Strike    https://habr.com/ru/articles/800247/?utm_campaign=800247&utm_source=habrahabr&utm_medium=rss
+
+
+Пентест корпоративной сети: о пользе своевременных патчей Microsoft AD   (https://habr.com/ru/companies/bastion/articles/724966/)
+
+
+Active Directory Attack. 2024   https://cybersecuritynews.com/active-directory-checklist/
+
+
+Создайте уязвимый каталог Active Directory, который позволит вам протестировать большинство атак на Active Directory в локальной лаборатории.вам нужно запустить скрипт в DC с установленной Active Directory   https://github.com/safebuffer/vulnerable-AD
+
+ Руководство по BloodHound. Читать статью (https://m4lwhere.medium.com/the-ultimate-guide-for-bloodhound-community-edition-bhce-80b574595acf) 
+  Дополнительный материал:
+
+•  Улучшения Bloodhound;
+ (https://ardent101.github.io/posts/bh_improvement/#%D1%87%D0%B0%D1%81%D1%82%D1%8C-1-%D1%83%D0%BB%D1%83%D1%87%D1%88%D0%B5%D0%BD%D0%B8%D1%8F-bloodhound) - Пользовательские хранимые запросы;
+ (https://ardent101.github.io/posts/bh_improvement/#%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B5-%D1%85%D1%80%D0%B0%D0%BD%D0%B8%D0%BC%D1%8B%D0%B5-%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81%D1%8B) - Добавление новых сущностей;
+ (https://ardent101.github.io/posts/bh_improvement/#%D0%B4%D0%BE%D0%B1%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BD%D0%BE%D0%B2%D1%8B%D1%85-%D1%81%D1%83%D1%89%D0%BD%D0%BE%D1%81%D1%82%D0%B5%D0%B9) - Весовые коэффициенты;
+ (https://ardent101.github.io/posts/bh_improvement/#%D0%B2%D0%B5%D1%81%D0%BE%D0%B2%D1%8B%D0%B5-%D0%BA%D0%BE%D1%8D%D1%84%D1%84%D0%B8%D1%86%D0%B8%D0%B5%D0%BD%D1%82%D1%8B) - Многоуровневая архитектура безопасности;
+ (https://ardent101.github.io/posts/bh_improvement/#%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D0%B5%D0%B2%D0%B0%D1%8F-%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0-%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8) - Объекты первоначального доступа;
+ (https://ardent101.github.io/posts/bh_improvement/#%D0%BE%D0%B1%D1%8A%D0%B5%D0%BA%D1%82%D1%8B-%D0%BF%D0%B5%D1%80%D0%B2%D0%BE%D0%BD%D0%B0%D1%87%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE-%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF%D0%B0) - Рекомендации по противодействию BloodHound;
+ (https://ardent101.github.io/posts/bh_improvement/#%D1%80%D0%B5%D0%BA%D0%BE%D0%BC%D0%B5%D0%BD%D0%B4%D0%B0%D1%86%D0%B8%D0%B8-%D0%BF%D0%BE-%D0%BF%D1%80%D0%BE%D1%82%D0%B8%D0%B2%D0%BE%D0%B4%D0%B5%D0%B9%D1%81%D1%82%D0%B2%D0%B8%D1%8E-bloodhound)•  Управление векторами атак;
+ (https://ardent101.github.io/posts/bh_improvement/#%D1%87%D0%B0%D1%81%D1%82%D1%8C-2-%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B2%D0%B5%D0%BA%D1%82%D0%BE%D1%80%D0%B0%D0%BC%D0%B8-%D0%B0%D1%82%D0%B0%D0%BA) - Значимые объекты.
+
+
+
+Как получить привилегии администратора домена, начав с принтера.   https://habr.com/ru/post/725008/
+
+  Дополнение:
+	http://hacking-printers.net
+	https://blog.compass-security.com/2021/05/printer-tricks-episode-ii-attack-of-the-clones/
+	PRET (https://github.com/RUB-NDS/PRET) - фреймворк на Python для эксплуатации известных уязвимостей в службах удаленной печати.
+
+
+Я думаю все кто занимались пентестом инфры AD дольше 1 дня знакомы с PingCastle (https://github.com/vletoux/pingcastle). Классная тулза, которая может проверять AD на мисконфиги и уязвимости. В ней удобно очень много чего. Она умеет как в обычных health check безопасности AD, то чуть ли не готовой презентации для руководства. 
+Недавно заходила речь о построении CVM (continuous vuln management) внутрянки. И я задавался вопросом, а как его сделать. Поставить тупо nuclei во внутренний контур мало, а какой-то ещё удобной автоматизации нет, шоб с отчётиками красивыми и/или понятными. Так вот нашёл для вас удобную автоматизацию, тем более с интеграцией в Teams/Slack(им кто-то ещё пользуется?). 
+Это небольшой powershell скрипт, который будет мониторить изменения в отчётах, к примеру pingcastle нашёл новую вулну, вам прилетит уведомление, что-то пропатчили, вам опять же придёт уведомление. Удобно? Очень!
+Подготовка:
+➡️Скачиваете последнюю версию с сайта (https://www.pingcastle.com/download/). 
+➡️Разархивируете
+➡️Создаете папку Reports внутри PingCastle
+➡️Кладёте скрипт PingCastle-Notify.ps1 (https://github.com/LuccaSA/PingCastle-Notify/blob/main/PingCastle-Notify.ps1) в корень PingCastle
+Далее потребуется настроить уведомления, следовательно создать бота ТЫК (https://github.com/LuccaSA/PingCastle-Notify?tab=readme-ov-file#create-a-bot)
+Наконец создать повторяющийся таск в AD ТЫК (https://github.com/LuccaSA/PingCastle-Notify?tab=readme-ov-file#deploy-a-scheduled-task)
+По сути всё, мы собрали бюджетный CVM AD на коленки.
+
+
+Pwning the Domain: AD CS.
+•  В Windows Server присутствует роль под названием Active Directory Certification Services (https://learn.microsoft.com/en-us/windows-server/identity/ad-cs/active-directory-certificate-services-overview) (AD CS), которая нужна для реализации инфраструктуры открытых ключей (PKI) в сетях с контроллером домена. AD CS предназначена для выдачи сертификатов пользователям и ПК. Сертификаты могут использоваться для шифрования, подписи, аутентификации и т.д., и в целом эта роль выглядит как сервис для повышения безопасности в домене.
+•  Чаще всего при пентесте домена AD конечной целью является перехват учётки администратора. Есть множество способов добиться указанной цели, и один из них — эксплуатация неправильных конфигураций шаблонов, по которым выпускаются сертификаты.
+•  Для получения администратора домена, мы можем воспользоваться инструментом — Certipy. (https://github.com/ly4k/Certipy) Он поможет найти информацию о шаблонах, запросить сертификаты и аутентифицироваться при помощи сертов, но самое главное — проводить атаки. Об этом сегодня и поговорим:
+ - Domain Escalation; (https://hadess.io/pwning-the-domain-ad-cs/#elementor-toc__heading-anchor-0)
+ - Domain Persistence; (https://hadess.io/pwning-the-domain-ad-cs/#elementor-toc__heading-anchor-1)
+ - Account Persistence; (https://hadess.io/pwning-the-domain-ad-cs/#elementor-toc__heading-anchor-2)
+ - Domain Certificate Theft; (https://hadess.io/pwning-the-domain-ad-cs/#elementor-toc__heading-anchor-3)
+ - Security Research. (https://hadess.io/pwning-the-domain-ad-cs/#elementor-toc__heading-anchor-4)
+
+
+Репозиторий: Active Directory Exploitation Cheat-Sheet — шпаргалка по эксплуатации Active Directory    (https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet?tab=readme-ov-file#active-directory-exploitation-cheat-sheet)
+
+
+Пентест Active Directory.
+•  С момента создания службы каталогов Active Directory (https://ru.wikipedia.org/wiki/Active_Directory#:~:text=%D0%A1%D0%B5%D1%82%D0%B8%20Active%20Directory%20%D0%BC%D0%BE%D0%B3%D1%83%D1%82%20%D0%B1%D1%8B%D1%82%D1%8C,%D0%B4%D0%B5%D1%81%D1%8F%D1%82%D0%BA%D0%BE%D0%B2%20%D0%B4%D0%BE%20%D0%BD%D0%B5%D1%81%D0%BA%D0%BE%D0%BB%D1%8C%D0%BA%D0%B8%D1%85%20%D0%BC%D0%B8%D0%BB%D0%BB%D0%B8%D0%BE%D0%BD%D0%BE%D0%B2%20%D0%BE%D0%B1%D1%8A%D0%B5%D0%BA%D1%82%D0%BE%D0%B2.&text=%D0%9F%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%81%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D0%BB%D0%BE%D1%81%D1%8C%20%D0%B2%201999,%D1%80%D0%B0%D0%BC%D0%BA%D0%B0%D1%85%20%D0%B2%D1%8B%D0%BF%D1%83%D1%81%D0%BA%D0%B0%20Windows%20Server%202003.) (AD) прошло уже 25 лет. За это время служба обросла функционалом, протоколами и различными клиентами.
+•  Материал, который Вы найдете по ссылкам ниже, станет хорошей отправной точкой для изучения особенностей и слабых мест AD. Содержание следующее:
+ - Trees and Forests / Components; (https://hacklido.com/blog/862-pentesting-active-directory-complete-guide-part-1#1-Trees-an)
+ - Enumerating AD with Bloodhound; (https://hacklido.com/blog/862-pentesting-active-directory-complete-guide-part-1#1-Enumerat)
+ - Authentication, Authorization, Access Control and more; (https://hacklido.com/blog/863-pentesting-active-directory-complete-guide-part-2)
+ - Enumeration; (https://hacklido.com/blog/864-pentesting-active-directory-complete-guide-part-3)
+ - LLMNR Poisoning; (https://hacklido.com/blog/865-pentesting-active-directory-complete-guide-part-4)
+ - Lateral movement & privilege escalation; (https://hacklido.com/blog/866-pentesting-active-directory-complete-guide-part-5)
+ - Domain persistence and cross forest attacks. (https://hacklido.com/blog/867-pentesting-active-directory-complete-guide-part-6)
+•  Вот ещё очень хороший цикл статей "Active Directory in Red Teaming" (https://0xstarlight.github.io/posts/Active-Directory-Introduction/) — включает в себя описание различных инструментов, основ и нюансов при проведении тестирования на проникновение в AD:
+ - Introduction; (https://0xstarlight.github.io/posts/Active-Directory-Introduction/)
+ - Offensive PowerShell; (https://0xstarlight.github.io/posts/Offensive-powershell/)
+ - Local Privilege Escalation; (https://0xstarlight.github.io/posts/Active-Directory-Windows-Local-Priv-Esc/)
+ - Lateral Movement; (https://0xstarlight.github.io/posts/Active-Directory-Lateral-Movement/)
+ - Domain Persistence; (https://0xstarlight.github.io/posts/Active-Directory-Domain-Persistence/)
+ - Domain Privilege Escalation; (https://0xstarlight.github.io/posts/Active-Directory-Domain-Priv-Esc/)
+ - Forest Trust Abuse. (https://0xstarlight.github.io/posts/Active-Diretory-Forest-Trust-Abuse/)
+•  Дополнительно:
+ - DetectionLab (https://github.com/clong/DetectionLab) — проект, который позволит тебе развернуть виртуальную лабораторию на базе Windows, для использования в исследовательских целях.
+ - Vulnerable-AD (https://github.com/WazeHell/vulnerable-AD) — заведомо уязвимая Active Directory. Окажется полезной для практических занятий и тестов.
+ - Cheat Sheet AD (https://github.com/drak3hft7/Cheat-Sheet---Active-Directory#PowerShell-Bypass-Execution-Policy) — эта шпаргалка описывает определенные методы, которые используются для атак Windows Active Directory.
